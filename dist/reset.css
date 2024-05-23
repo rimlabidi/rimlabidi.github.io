@@ -1,0 +1,22 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v4.0 | 20180602
+   License: none (public domain)
+*/
+h2 {
+  font-style: italic; /* Esto hace que el texto sea cursiva */
+  font-weight: bold; /* Esto hace que el texto sea negrita */
+}
+
+ {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, menu, nav, section {
+  display: block;
+}
